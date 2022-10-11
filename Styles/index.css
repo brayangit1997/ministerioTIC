@@ -1,0 +1,114 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.imgTarjetonCand {
+    height: 300px;
+    width: 280px;
+    border-radius: 10px;   
+}
+
+.ini {
+    height: 150px;
+    width: 100%;
+    position: relative;
+
+}
+.ini h1 {
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 0;    
+}
+
+.fig-1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+}
+
+.fig-2 {
+    position: relative;
+    left: 80%;
+    top: -110px;
+}
+
+.in-text {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.t-inicio {
+    width: 100%;
+    height: 350px;
+    background-color: #1C4149;
+    color: white;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: #1C4149;
+    color: white;
+}
+
+.pe {
+    width: 35%;
+    height: 550px;
+    outline: 5px solid violet;
+    padding: 1rem;
+    margin-left: 10%;
+    align-items: center;
+    text-align: center;
+}
+
+.r {
+    width: 35%;
+    height: 550px;
+    outline: 5px solid yellow;
+    padding: 1rem;
+    margin-left: 55%;
+    align-content: center;
+    margin-top: -550px;
+    text-align: center;
+}
+
+.fe {
+    width: 35%;
+    height: 550px;
+    outline: 5px solid rgb(247, 87, 95);
+    padding: 1rem;
+    margin-left: 10%;
+    align-items: center;
+    text-align: center;
+}
+
+.se {
+    width: 35%;
+    height: 550px;
+    outline: 5px solid green;
+    padding: 1rem;
+    margin-left: 55%;
+    align-content: center;
+    margin-top: -550px;
+    text-align: center;
+}
+
+.textce {
+    text-align: justify;
+    justify-content: center;
+    
+}
+
+.t-can {
+    text-align: center;
+    font-size: 30px
+}
+
+.ico {
+    margin-left: 0px;
+}
+
